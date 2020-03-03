@@ -1,0 +1,24 @@
+<resources>
+    <!-- Название приложения -->
+    <string name="app_name">Shopping List</string>
+    <!-- Просьба ввести покупку для добавления -->
+    <string name="enter_request_text">Enter your purchase</string>
+    <!-- Предложение альтернативного способа добавления покупки -->
+    <string name="alternative_add">Or you can add your purchase by image</string>
+    <!-- Отображается в случае пустого списка -->
+    <string name="empty_list">List is empty</string>
+    <!-- Ошибка при загрузке фото -->
+    <string name="photo_load_failed">Failed to load photo. Try again</string>
+    <!-- Текст для кнопки возвращения в главную активность -->
+    <string name="back_to_main_list">Back to shopping list</string>
+    <!-- Для меню итема просмотр переход к просмотру истории покупок -->
+    <string name="view_purchase_history">View purchase history</string>
+    <!-- Для меню итема отметить все варианты как купленные -->
+    <string name="delete_all">Mark all as purchased</string>
+    <!-- Для меню итема отметить несколько вариантов как купленные -->
+    <string name="delete_few">Mark selected as purchased</string>
+    <!-- Заголовок для активности добавления покупки -->
+    <string name="add_purchase_title">Adding a purchase</string>
+    <!-- Заголовок для активности истории покупок -->
+    <string name="history_title">Purchase history</string>
+</resources>

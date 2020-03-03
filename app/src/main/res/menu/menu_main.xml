@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/shopping_hisoty_menu"
+        android:title="@string/view_purchase_history" />
+
+    <item
+        android:id="@+id/check_all"
+        android:title="@string/delete_all" />
+
+    <item
+        android:id="@+id/mark_few_elements"
+        android:title="@string/delete_few"/>
+</menu>
